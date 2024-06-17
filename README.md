@@ -1,4 +1,6 @@
 https://github.com/Tsinghua-MARS-Lab/ViP3D
+
+git push origin master
 source ~/.bashrc 
 conda activate RRB
  
